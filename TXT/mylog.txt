@@ -12,9 +12,9 @@ ZCZC W00 120 L09 Reading assignment
 ZCZC W01 100 L02 Classroom related (Tuesday)
 ZCZC W01 15 L01 Reading SCELE
 ZCZC W01 100 L02 Classroom related (Thursday)
-ZCZC W01 120 L02 Classroom related (Thursday)
+ZCZC W01 120 L31 VirtualBox installation
 ZCZC W01 60 L06 Studying for QUIZ
 ZCZC W01 10 L05 QUIZ
+ZCZC W01 60 L62 Virtual Debian guest installation
 ZCZC W01 120 L09 Weekly Assignments
 ZCZC W01 20 L03 GitHub related
-ZCZC W01 20 LO4 Github Pages related
