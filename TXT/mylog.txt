@@ -25,3 +25,11 @@ ZCZC W02 60 L01 Reading SCELE
 ZCZC W02 60 L06 Studying for QUIZ
 ZCZC W02 10 L05 QUIZ
 ZCZC W02 120 L09 Pop Quiz and Weekly Assignments
+ZCZC W03 100 L02 Classroom related (Tuesday)
+ZCZC W03 25 L01 Reading SCELE
+ZCZC W03 50 L02 Classroom Zoom Meeting related (Thursday)
+ZCZC W03 100 L70 Studying for other courses
+ZCZC W03 60 L06 Studying for QUIZ
+ZCZC W03 10 L05 QUIZ
+ZCZC W03 120 L09 Doing Pop Quiz and Weekly Assignments
+ZCZC W03 20 L03 GitHub related
