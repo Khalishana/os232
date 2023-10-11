@@ -34,3 +34,10 @@ ZCZC W04 10 L01 Reading SCELE
 ZCZC W04 420 L70 Studying and doing other courses assignment
 ZCZC W04 60 L09 doing Weekly Assignments
 ZCZC W04 10 L03 Github Related
+ZCZC W05 100 L02 Classroom related (Tuesday)
+ZCZC W05 30 L01 Reading SCELE
+ZCZC W05 50 L02 Classroom related (doing assignment for asyn class)
+ZCZC W05 60 L06 Studying for QUIZ
+ZCZC W05 10 L05 QUIZ
+ZCZC W05 60 L09 doing Weekly Assignments
+ZCZC W05 10 L03 Github Related
