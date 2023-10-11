@@ -19,3 +19,6 @@ permalink: LINKS/
 - [Pointers vs References in C++](https://www.geeksforgeeks.org/pointers-vs-references-cpp/) -- This link helps me learn about the overview of pointers and references in C++
 - [How Operating Systems Manages Address Space](https://study.com/academy/lesson/how-operating-systems-manages-address-space.html) -- This link helps me learn about the process of address space managing in operating system
 - [Linux commands to display your hardware information](https://opensource.com/article/19/9/linux-commands-hardware-information) -- This link helps me know about Linux commands that can be used for displaying my hardware information
+
+## Week05
+- [Basic Linux Commands to Check Hardware and System Information](https://medium.com/technology-hits/basic-linux-commands-to-check-hardware-and-system-information-62a4436d40db) -- This link helps me know about linux commands that can be used for checking hardware 
