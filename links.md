@@ -22,3 +22,6 @@ permalink: LINKS/
 
 ## Week05
 - [Basic Linux Commands to Check Hardware and System Information](https://medium.com/technology-hits/basic-linux-commands-to-check-hardware-and-system-information-62a4436d40db) -- This link helps me know about linux commands that can be used for checking hardware 
+
+## Week06
+- [How to backup and restore Virtualbox Machines?](https://www.youtube.com/watch?v=HkGJr5BJg5g&t=125s) -- This link helps me know how to backup my virtualbox machines

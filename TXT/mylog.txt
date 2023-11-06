@@ -41,3 +41,10 @@ ZCZC W05 60 L06 Studying for QUIZ
 ZCZC W05 10 L05 QUIZ
 ZCZC W05 60 L09 doing Weekly Assignments
 ZCZC W05 10 L03 Github Related
+ZCZC W06 100 L02 Classroom related (Tuesday)
+ZCZC W06 10 L01 Reading SCELE
+ZCZC W06 100 L02 Classroom related (Thursday)
+ZCZC W06 60 L06 Studying for QUIZ
+ZCZC W06 12 L05 QUIZ
+ZCZC W06 120 L09 doing Weekly Assignments
+ZCZC W06 20 L03 Github Related
