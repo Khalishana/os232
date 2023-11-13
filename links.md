@@ -25,3 +25,7 @@ permalink: LINKS/
 
 ## Week06
 - [How to backup and restore Virtualbox Machines?](https://www.youtube.com/watch?v=HkGJr5BJg5g&t=125s) -- This link helps me know how to backup my virtualbox machines
+
+## Week07
+- [What is Shared Memory in Linux?](https://www.scaler.com/topics/shared-memory-linux/) -- This link helps me know the overview about sharing memory
+- [Using Shared Memory in Linux](https://dev.to/0xog_pg/using-shared-memory-in-linux-1p62) -- This link helps me learn more about using shared memory in linux command
