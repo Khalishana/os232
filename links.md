@@ -29,3 +29,7 @@ permalink: LINKS/
 ## Week07
 - [What is Shared Memory in Linux?](https://www.scaler.com/topics/shared-memory-linux/) -- This link helps me know the overview about sharing memory
 - [Using Shared Memory in Linux](https://dev.to/0xog_pg/using-shared-memory-in-linux-1p62) -- This link helps me learn more about using shared memory in linux command
+
+## Week08
+- [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=7) -- This link helps me doing weekly assignment especially doing Binutils-2.41 - Pass 1: Standard Build Unit (SBU) part
+- [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026) -- This link helps me know about the overview of LFS 
