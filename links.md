@@ -33,3 +33,6 @@ permalink: LINKS/
 ## Week08
 - [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=7) -- This link helps me doing weekly assignment especially doing Binutils-2.41 - Pass 1: Standard Build Unit (SBU) part
 - [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026) -- This link helps me know about the overview of LFS 
+
+## Week09
+- [Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=D_N1kQPsQEk) -- This link helps me doing weekly assignment in week09- [Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scratch](https://www.youtube.com/watch?v=y8uAMEK0FVc) -- This link helps me doing weekly assignment and knows about the importants and how to do a cleaning up and backup

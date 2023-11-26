@@ -63,3 +63,9 @@ ZCZC W08 40 L06 Studying for QUIZ
 ZCZC W08 7 L05 QUIZ
 ZCZC W08 120 L09 doing Weekly Assignments
 ZCZC W08 10 L03 Github Related
+ZCZC W09 100 L02 Classroom related (Tuesday)
+ZCZC W09 150 L70 Studying and doing another course assignment
+ZCZC W09 45 L06 Studying for QUIZ
+ZCZC W09 7 L05 QUIZ
+ZCZC W09 150 L09 doing Weekly Assignments
+ZCZC W09 10 L03 Github Related
